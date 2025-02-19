@@ -1,0 +1,36 @@
+_repo: Halikon-hakoniskat-b-Joulutapakuvaus_75158
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Heinonen, Iida
+    birthdate: 1869
+    gutenberg_agent_id: '57866'
+    url: http://www.gutenberg.org/2009/agents/57866
+  - agent_name: Kallio, Niilo
+    alias: Kallio, Niilo Vihtori
+    birthdate: 1890
+    deathdate: 1968
+    gutenberg_agent_id: '57859'
+    url: http://www.gutenberg.org/2009/agents/57859
+    wikipedia: https://fi.wikipedia.org/wiki/Niilo_Kallio
+description: ''
+gutenberg_issued: '2025-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75158'
+language: fi
+pgterms:marc905: 20241208033804kallio
+pgterms:marc906: '1920'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aPorvoo :$bWSOY, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folk literature, Finnish'
+- !lcsh 'Varsinais-Suomi (Finland) -- Social life and customs -- Fiction'
+- !lcc 'PH'
+- GITenberg
+title: 'Halikon hakoniskat : $b Joulutapakuvaus'
+url: http://www.gutenberg.org/ebooks/75158
